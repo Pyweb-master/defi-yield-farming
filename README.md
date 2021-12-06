@@ -2,9 +2,6 @@
 
 This truffle project focuses on developing a DeFi app which implements the concept of yield farming / liquidity mining based Dai token.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/104134982-2b389a00-539e-11eb-9ac7-642dbe48ec4d.gif">
-</p>
 
 ---
 This repository presents practices about:
